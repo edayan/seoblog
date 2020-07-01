@@ -11,6 +11,7 @@ node_modules
 #embedded (test) h2 databases
 *.mv.db
 *.trace.db
+.next
 
 
 
