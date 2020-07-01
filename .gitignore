@@ -1,0 +1,37 @@
+# idea project files
+*.iml
+.idea/
+
+# node_modules everywhere
+node_modules
+
+# maven target
+**/target/
+
+#embedded (test) h2 databases
+*.mv.db
+*.trace.db
+
+
+
+# visual studio code generates eclipse files in the form of:
+.classpath
+.project
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
+org.eclipse.core.resources.prefs
+
+#...
+.sts4-cache
+
+# vscode
+.vscode/
+
+#Eclipse-STS
+.settings/
+
+
+
+*codestyle.xml
+
+**/.factorypath
